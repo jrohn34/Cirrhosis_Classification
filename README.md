@@ -1,2 +1,16 @@
 # Wine Data Set
-Data set of different Wines and the Ratings given
+Data set of different wines from spain and the ratings given.
+The source of my data is https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset. It is from Kaggle and the username who uploaded the data is FEDESORIANO 
+The data given to me is an assortment of different kinds of wine from different parts of spain. There are many different Wineries. 
+The dataset includes information about various wines, including details such as the winery name, wine name, year of production, wine ratings, the number of reviews received, country of origin, region of production, wine prices, wine types, wine body, and acidity levels.
+![download-4](https://github.com/jrohn34/Wine-Data-Set/assets/138350298/df53d73c-f625-4ce1-8676-8e89267349fc)
+I am going to use the price vs rating chart because it allows us to see that price and rating do not go hand in hand and if the wine is made well the price does not make people sway more to it.
+
+![download-3](https://github.com/jrohn34/Wine-Data-Set/assets/138350298/3910b380-19f8-4322-81a0-00c5775a00cf)
+I am going to use the Type vs rating chart because it gives us the knowledge that the red wine does better than the white wine given. It also allows us to see that Pedro Ximenez is doing the best
+
+![download-3](https://github.com/jrohn34/Wine-Data-Set/assets/138350298/26c75065-f11c-4d0d-aa8c-debc34f7cc0e)
+
+The Random Forest model could serve as a valuable tool. It can assist wine retailers, vineyards, or online wine marketplaces in estimating wine quality based on various attributes. This information can be used to optimize pricing strategies, identify high-rated wines, and recommend wines to customers.
+
+Optimize Pricing Strategies and Curate Wine Collections

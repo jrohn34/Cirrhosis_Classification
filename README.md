@@ -20,5 +20,6 @@ Optimize Pricing Strategies and Curate Wine Collections
 
 
 
-[Project 2 (1).pdf](https://github.com/jrohn34/Wine-Data-Set/files/12602007/Project.2.1.pdf)
+[Wine Data Project.pdf](https://github.com/jrohn34/Wine-Data-Set/files/12602037/Wine.Data.Project.pdf)
+
 
